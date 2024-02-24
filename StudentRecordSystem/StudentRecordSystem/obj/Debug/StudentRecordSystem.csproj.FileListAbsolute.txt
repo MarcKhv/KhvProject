@@ -1,0 +1,11 @@
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.pdb
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.AssemblyReference.cache
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.AddGradeForm.resources
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.StudentRecordSystem.resources
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Properties.Resources.resources
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.GenerateResource.cache
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\Caleb Azu-Benson\source\repos\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb
